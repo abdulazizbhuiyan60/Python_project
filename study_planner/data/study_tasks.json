@@ -1,0 +1,110 @@
+[
+    {
+        "task_id": "T001",
+        "subject": "Python",
+        "topic": "Variables & data types",
+        "deadline": "2026-11-10",
+        "planned_hours": 4.0,
+        "hours_done": 4.0,
+        "priority": "High"
+    },
+    {
+        "task_id": "T002",
+        "subject": "Python",
+        "topic": "Functions & modules",
+        "deadline": "2026-11-18",
+        "planned_hours": 6.0,
+        "hours_done": 3.5,
+        "priority": "High"
+    },
+    {
+        "task_id": "T003",
+        "subject": "Python",
+        "topic": "OOP - classes & objects",
+        "deadline": "2026-11-25",
+        "planned_hours": 8.0,
+        "hours_done": 1.0,
+        "priority": "High"
+    },
+    {
+        "task_id": "T005",
+        "subject": "Mathematics",
+        "topic": "Probability basics",
+        "deadline": "2026-12-02",
+        "planned_hours": 6.0,
+        "hours_done": 0.0,
+        "priority": "Medium"
+    },
+    {
+        "task_id": "T006",
+        "subject": "Physics",
+        "topic": "Kinematics problem set",
+        "deadline": "2026-11-12",
+        "planned_hours": 3.0,
+        "hours_done": 1.5,
+        "priority": "High"
+    },
+    {
+        "task_id": "T007",
+        "subject": "Physics",
+        "topic": "Newton's laws revision",
+        "deadline": "2026-11-28",
+        "planned_hours": 4.0,
+        "hours_done": 0.0,
+        "priority": "Low"
+    },
+    {
+        "task_id": "T008",
+        "subject": "English",
+        "topic": "Essay writing practice",
+        "deadline": "2026-11-16",
+        "planned_hours": 3.0,
+        "hours_done": 3.0,
+        "priority": "Low"
+    },
+    {
+        "task_id": "T009",
+        "subject": "English",
+        "topic": "Reading comprehension",
+        "deadline": "2026-12-05",
+        "planned_hours": 4.0,
+        "hours_done": 1.0,
+        "priority": "Medium"
+    },
+    {
+        "task_id": "T010",
+        "subject": "Database",
+        "topic": "SQL joins & queries",
+        "deadline": "2026-11-22",
+        "planned_hours": 6.0,
+        "hours_done": 2.5,
+        "priority": "High"
+    },
+    {
+        "task_id": "T011",
+        "subject": "Database",
+        "topic": "ER diagram design",
+        "deadline": "2026-12-10",
+        "planned_hours": 5.0,
+        "hours_done": 0.0,
+        "priority": "Medium"
+    },
+    {
+        "task_id": "T012",
+        "subject": "Data Structures",
+        "topic": "Stacks and queues",
+        "deadline": "2026-11-30",
+        "planned_hours": 7.0,
+        "hours_done": 4.0,
+        "priority": "Medium"
+    },
+    {
+        "task_id": "T013",
+        "subject": "abc",
+        "topic": "2",
+        "deadline": "2026-11-16",
+        "planned_hours": 2.0,
+        "hours_done": 1.0,
+        "priority": "High"
+    }
+]
